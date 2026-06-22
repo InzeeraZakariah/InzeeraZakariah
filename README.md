@@ -8,7 +8,6 @@ I'm driven by a mission to build intelligent systems that address real-world pro
 - Machine Learning & Deep Learning  
 - Generative AI & Computer Vision  
 - Data Analysis & Visualization  
-- Internet of Things (IoT) and Smart Hardware  
 
 I enjoy working at the intersection of software intelligence and physical systems, creating solutions that blend algorithmic rigor with practical utility.
 
