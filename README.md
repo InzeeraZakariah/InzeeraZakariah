@@ -8,7 +8,7 @@
 
 ## 📊 GitHub Analytics
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=InzeeraZ&layout=pie&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=InzeeraZakariah&layout=donut&theme=radical)
 
 ---
 
