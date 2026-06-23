@@ -18,8 +18,9 @@
 **Social Summer of Code (SSoC'26) Contributor**
 
 ![PRs Merged](https://img.shields.io/badge/PRs%20Merged-3-brightgreen?style=for-the-badge)
-![Open Source Contributions](https://img.shields.io/badge/Open%20Source-3-blue?style=for-the-badge)
-![Total Repositories](https://img.shields.io/badge/Total%20Repos-XX-purple?style=for-the-badge)
+![Open Source Contributions](https://img.shields.io/badge/Open%20Source-5-blue?style=for-the-badge)
+![Issues](https://img.shields.io/badge/Issues-20-orange?style=for-the-badge)
+![Total Repositories](https://img.shields.io/badge/Total%20Repos-33-purple?style=for-the-badge)
 
 
 ---
