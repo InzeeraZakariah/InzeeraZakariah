@@ -1,33 +1,67 @@
+# 👋 Hi, I'm Inzeera Z
 
-# Hi there, I'm Inzeera Z.
+🎓 Final Year B.Tech student in **Artificial Intelligence & Data Science**  
+💻 **AI Engineer in the making** | **Open Source Contributor**  
+🚀 Passionate about building intelligent systems that solve real-world problems
 
-A passionate AI enthusiast, **Open Source Contributor**, and pre-final year B.Tech student specializing in **Artificial Intelligence and Data Science** at Arunachala College of Engineering for Women.
+---
 
-### About Me
-I’m driven by a mission to build intelligent systems that solve real-world problems with elegance and impact. My hands-on experience spans:
+## 📊 GitHub Analytics
 
-- Machine Learning & Deep Learning  
-- Generative AI & Computer Vision  
-- Data Analysis & Visualization  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=InzeeraZ&layout=pie&theme=radical)
 
-I thrive at the intersection of software intelligence and physical systems, creating solutions that blend algorithmic rigor with practical utility.
+---
 
-### What I Do
-From developing predictive models and optimizing neural networks to contributing to open source projects, I bring:
+## 🌟 Open Source Contributions
 
-- A deep curiosity for emerging technologies  
-- Strong debugging and analytical skills  
-- A collaborative spirit focused on innovation, mentorship, and knowledge-sharing  
+![PRs Merged](https://img.shields.io/badge/PRs%20Merged-3-brightgreen?style=for-the-badge)  
+![Open Source Projects](https://img.shields.io/badge/Open%20Source%20Contributions-3-blue?style=for-the-badge)
 
-I enjoy environments where continuous learning, experimentation, and purposeful teamwork drive progress.
+---
 
-### What I’m Looking For
-I’m actively exploring:
+## 🛠️ Tech Stack
 
-- Internships and collaborative research opportunities  
-- Projects in intelligent automation, human-AI interaction, and edge computing  
-- Opportunities to grow alongside passionate engineers, educators, and visionaries  
+<p align="center">
+  <!-- Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
+  
+  <!-- Frameworks -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50" height="50"/>
+  
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+</p>
 
-### 📫 Let’s Connect
-If you’re working on something exciting or looking for an enthusiastic contributor, let’s chat!
+**Specialties:**  
+- Machine Learning (ML)  
+- Deep Learning (DL)  
+- Computer Vision (CV)  
+- Agentic AI  
+- LangChain / LangGraph  
+- Retrieval-Augmented Generation (RAG)  
+- Model Context Protocol (MCP)  
 
+---
+
+## 🚀 Top Projects
+
+- **Payanamtic** → AI-powered travel assistant with intelligent automation  
+- **Document Summarizer + QA Bot** → Summarization + question answering from uploaded docs  
+- **Email Sort (Infosys Springboard)** → Interactive Gradio dashboard for email classification  
+
+---
+
+## 🌐 Connect With Me
+- 💼 [LinkedIn](https://linkedin.com/in/inzeeraz)  
+- 📫 Email: inzeera@example.com  
+
+---
+
+✨ *Always learning, always building — let’s collaborate on something impactful!*
