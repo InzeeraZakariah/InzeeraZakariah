@@ -1,10 +1,11 @@
 # 👋 Hi, I'm Inzeera Z
 
-🎓 Final Year B.Tech student in **Artificial Intelligence & Data Science**  
+🎓 Final Year B.Tech student in **Artificial Intelligence & Data Science** at ACEW
 💻 **AI Engineer in the making** | **Open Source Contributor**  
 🚀 Passionate about building intelligent systems that solve real-world problems
-
----
+🔬 Hands-on with **Machine Learning, Deep Learning, Generative AI, Computer Vision**  
+📊 Skilled in **Data Analysis & Visualization**    
+🤝 Collaborative spirit: innovation, mentorship, and knowledge-sharing  
 
 ## 📊 GitHub Analytics
 
@@ -18,6 +19,10 @@
 ![Open Source Projects](https://img.shields.io/badge/Open%20Source%20Contributions-3-blue?style=for-the-badge)
 
 ---
+
+## Repositories
+![Repos](https://img.shields.io/badge/Public%20Repos-10-blue?style=for-the-badge)
+
 
 ## 🛠️ Tech Stack
 
