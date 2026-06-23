@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Inzeera Z
 
 🎓 Final year B.Tech student in **Artificial Intelligence & Data Science**  
-💻 **AI Engineer in the making** | **Open Source Contributor**  
+💻 **Aspiring AI Engineer** | **Open Source Contributor**  
 🚀 Passionate about building intelligent systems that solve real-world problems
 
 ---
