@@ -8,12 +8,14 @@
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=InzeeraZ&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=InzeeraZ&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=InzeeraZakariah&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=InzeeraZakariah&layout=compact&theme=radical)
 
 ---
 
 ## 🌟 Contributions & Impact
+
+**Social Summer of Code (SSoC'26) Contributor**
 
 ![PRs Merged](https://img.shields.io/badge/PRs%20Merged-3-brightgreen?style=for-the-badge)
 ![Open Source Contributions](https://img.shields.io/badge/Open%20Source-3-blue?style=for-the-badge)
