@@ -71,10 +71,4 @@
 
 ---
 
-## 🌐 Connect With Me
-- 💼 [LinkedIn](https://linkedin.com/in/inzeeraz)  
-- 📫 Email: inzeera@example.com  
-
----
-
 ✨ *Always learning, always building — let’s collaborate on something impactful!*
