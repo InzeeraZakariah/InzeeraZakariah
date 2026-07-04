@@ -8,8 +8,8 @@
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=InzeeraZakariah&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=InzeeraZakariah&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=InzeeraZakariah&show_icons=true&theme=radical&cache_seconds=1800)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=InzeeraZakariah&layout=compact&theme=radical&cache_seconds=1800)
 
 ---
 
