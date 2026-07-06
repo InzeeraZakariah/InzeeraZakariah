@@ -98,8 +98,8 @@
 |---|---|
 | 🧳 **Payanamtic** | AI-powered travel assistant with intelligent automation |
 | 📄 **Document Summarizer + QA Bot** | RAG app using LangChain, ChromaDB & Groq for doc summarization and Q&A |
+|    **Cattle Breed Recognition** | MobileNet Based Image Classifier |
 | 📧 **Email Sort** (Infosys Springboard) | Interactive Gradio dashboard for email classification & prioritization |
-| 🏥 **Rural Health Attendance System** | React PWA + Firebase + Gemini for field-verified attendance tracking |
 | 📚 **EduStream Academy** | School portal with AI-powered floating assistant chatbot |
 | 🗓️ **StudyPlan** | Study planner with Pomodoro mode, AI smart-paste, and subject insights |
 
@@ -111,9 +111,6 @@
   <img src="https://raw.githubusercontent.com/InzeeraZakariah/InzeeraZakariah/output/github-contribution-grid-snake.svg" width="98%"/>
 </p>
 
-> 💡 To enable the snake animation, add the `platane/snk` GitHub Action to your profile repo — I can walk you through the workflow file if you'd like.
-
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=InzeeraZakariah&label=Profile%20Views&color=blueviolet&style=flat"/>
