@@ -25,11 +25,6 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=InzeeraZakariah&show_icons=true&theme=radical&cache_seconds=1800&count_private=true" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=InzeeraZakariah&layout=compact&theme=radical&cache_seconds=1800" width="35%"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=InzeeraZakariah&theme=radical" width="49%"/>
 </p>
 
