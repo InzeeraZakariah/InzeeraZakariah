@@ -14,11 +14,7 @@
 
 ---
 
-## 🔭 Currently Working On
-
-- 🧰 Contributing to **One File Tools** (open source) — built the Case Converter tool
-- 📚 **EduStream Academy** — school portal with an AI-powered floating assistant (Node/Express/MongoDB + React)
-- 🗓️ **StudyPlan** — a study planner with Pomodoro mode, smart-paste AI extraction, and subject insights
+## 🔭 Currently Working On New innovative projects 
 
 ---
 
